@@ -136,5 +136,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://ultra-planet-c2e3f.netlify.app"
 }
